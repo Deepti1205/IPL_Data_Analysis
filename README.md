@@ -1,8 +1,3 @@
 # IPL_Data_Analysis
 
-
-
-
-
-![Architecture_Flow]
-(https://github.com/user-attachments/assets/0ef8c4b4-a564-43e3-8fab-98327c5e7e47)
+![Architecture_Flow](https://github.com/user-attachments/assets/6850ea65-e2f6-42fc-ac97-a80106b1ae78)
